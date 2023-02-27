@@ -21,148 +21,146 @@
 \contentsline {paragraph}{}{v}{section*.8}%
 \contentsline {paragraph}{}{v}{section*.8}%
 \contentsline {chapter}{List of Figures}{vi}{section*.9}%
-\babel@toc {french}{}\relax 
-\contentsline {chapter}{Liste des Algorithmes}{viii}{chapter*.10}%
-\contentsline {chapter}{Introduction}{1}{chapter*.11}%
+\contentsline {chapter}{Introduction}{1}{chapter*.10}%
+\contentsline {paragraph}{}{1}{section*.11}%
+\contentsline {paragraph}{}{1}{section*.11}%
 \contentsline {paragraph}{}{1}{section*.12}%
 \contentsline {paragraph}{}{1}{section*.12}%
-\contentsline {paragraph}{}{1}{section*.13}%
-\contentsline {paragraph}{}{1}{section*.13}%
-\contentsline {paragraph}{}{1}{section*.13}%
-\contentsline {paragraph}{}{1}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
-\contentsline {paragraph}{}{2}{section*.13}%
+\contentsline {paragraph}{}{1}{section*.12}%
+\contentsline {paragraph}{}{1}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.12}%
 \babel@toc {french}{}\relax 
 \contentsline {chapter}{\numberline {1}ETAT DE L\IeC {\textquoteright }ART DE IDENTIFICATION PAR BIOMETRIE VOCALE}{3}{chapter.1}%
-\contentsline {section}{Introduction}{3}{section*.14}%
+\contentsline {section}{Introduction}{3}{section*.13}%
 \contentsline {section}{\numberline {1.1}D\IeC {\'e}finitions}{3}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Biom\IeC {\'e}trie}{3}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}Biom\IeC {\'e}trie vocale}{4}{subsection.1.1.2}%
 \contentsline {subsection}{\numberline {1.1.3}Identification et authentification biom\IeC {\'e}trique}{4}{subsection.1.1.3}%
-\contentsline {paragraph}{}{4}{section*.16}%
-\contentsline {paragraph}{}{5}{section*.16}%
+\contentsline {paragraph}{}{4}{section*.15}%
+\contentsline {paragraph}{}{5}{section*.15}%
 \contentsline {subsection}{\numberline {1.1.4}Deep learning}{5}{subsection.1.1.4}%
 \contentsline {section}{\numberline {1.2}historique de la biom\IeC {\'e}trie vocale}{5}{section.1.2}%
+\contentsline {paragraph}{}{5}{section*.16}%
+\contentsline {paragraph}{}{5}{section*.16}%
 \contentsline {paragraph}{}{5}{section*.17}%
 \contentsline {paragraph}{}{5}{section*.17}%
-\contentsline {paragraph}{}{5}{section*.18}%
-\contentsline {paragraph}{}{5}{section*.18}%
-\contentsline {paragraph}{}{5}{section*.18}%
-\contentsline {paragraph}{}{5}{section*.18}%
+\contentsline {paragraph}{}{5}{section*.17}%
+\contentsline {paragraph}{}{5}{section*.17}%
 \contentsline {section}{\numberline {1.3}Types de reconnaissances vocales}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Fonctionnement}{6}{section.1.4}%
 \contentsline {section}{\numberline {1.5}cas d\IeC {\textquoteright }utilisation de la biom\IeC {\'e}trie vocale}{7}{section.1.5}%
-\contentsline {paragraph}{}{7}{section*.20}%
+\contentsline {paragraph}{}{7}{section*.19}%
 \contentsline {section}{\numberline {1.6}Les avantages de la biom\IeC {\'e}trie vocale}{8}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Les inconveninents de la biom\IeC {\'e}trie vocale}{8}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Apprenttissage profond}{9}{section.1.8}%
 \contentsline {subsection}{\numberline {1.8.1}Notion d\IeC {\textquoteright }IA}{9}{subsection.1.8.1}%
-\contentsline {paragraph}{}{9}{section*.21}%
-\contentsline {paragraph}{}{10}{section*.21}%
-\contentsline {paragraph}{}{10}{section*.21}%
+\contentsline {paragraph}{}{9}{section*.20}%
+\contentsline {paragraph}{}{10}{section*.20}%
+\contentsline {paragraph}{}{10}{section*.20}%
 \contentsline {subsection}{\numberline {1.8.2}Notion d'apprentissage automatique}{10}{subsection.1.8.2}%
-\contentsline {paragraph}{}{10}{section*.23}%
-\contentsline {paragraph}{}{11}{section*.23}%
-\contentsline {paragraph}{}{11}{section*.23}%
-\contentsline {paragraph}{}{11}{section*.23}%
-\contentsline {paragraph}{}{11}{section*.23}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
-\contentsline {paragraph}{}{12}{figure.caption.24}%
+\contentsline {paragraph}{}{10}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.22}%
+\contentsline {paragraph}{}{11}{section*.22}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
+\contentsline {paragraph}{}{12}{figure.caption.23}%
 \contentsline {subsection}{\numberline {1.8.3}Notions de Deep learning}{12}{subsection.1.8.3}%
 \contentsline {subsubsection}{\numberline {1.8.3.1}d\IeC {\'e}finition}{12}{subsubsection.1.8.3.1}%
-\contentsline {paragraph}{}{12}{section*.25}%
-\contentsline {paragraph}{}{13}{section*.25}%
-\contentsline {paragraph}{}{13}{section*.25}%
-\contentsline {paragraph}{}{13}{section*.25}%
-\contentsline {paragraph}{}{13}{section*.25}%
-\contentsline {paragraph}{}{13}{figure.caption.26}%
-\contentsline {paragraph}{}{14}{figure.caption.27}%
+\contentsline {paragraph}{}{12}{section*.24}%
+\contentsline {paragraph}{}{13}{section*.24}%
+\contentsline {paragraph}{}{13}{section*.24}%
+\contentsline {paragraph}{}{13}{section*.24}%
+\contentsline {paragraph}{}{13}{section*.24}%
+\contentsline {paragraph}{}{13}{figure.caption.25}%
+\contentsline {paragraph}{}{14}{figure.caption.26}%
 \contentsline {subsubsection}{\numberline {1.8.3.2}Fonctionnement}{14}{subsubsection.1.8.3.2}%
-\contentsline {paragraph}{}{14}{section*.28}%
-\contentsline {paragraph}{}{14}{figure.caption.29}%
-\contentsline {paragraph}{}{14}{figure.caption.29}%
-\contentsline {paragraph}{}{14}{figure.caption.29}%
-\contentsline {paragraph}{}{15}{figure.caption.31}%
-\contentsline {paragraph}{}{15}{figure.caption.31}%
+\contentsline {paragraph}{}{14}{section*.27}%
+\contentsline {paragraph}{}{14}{figure.caption.28}%
+\contentsline {paragraph}{}{14}{figure.caption.28}%
+\contentsline {paragraph}{}{14}{figure.caption.28}%
+\contentsline {paragraph}{}{15}{figure.caption.30}%
+\contentsline {paragraph}{}{15}{figure.caption.30}%
 \contentsline {section}{\numberline {1.9}deep Learning pour la reconnaissance vocale}{16}{section.1.9}%
-\contentsline {paragraph}{}{16}{section*.32}%
+\contentsline {paragraph}{}{16}{section*.31}%
+\contentsline {paragraph}{}{17}{section*.31}%
 \contentsline {paragraph}{}{17}{section*.32}%
-\contentsline {paragraph}{}{17}{section*.33}%
 \contentsline {subsection}{\numberline {1.9.1}que repr\IeC {\'e}sentent les x-vector dans la reconnaissance vocale?}{18}{subsection.1.9.1}%
-\contentsline {paragraph}{}{18}{section*.34}%
-\contentsline {paragraph}{}{18}{section*.34}%
-\contentsline {paragraph}{}{18}{section*.34}%
+\contentsline {paragraph}{}{18}{section*.33}%
+\contentsline {paragraph}{}{18}{section*.33}%
+\contentsline {paragraph}{}{18}{section*.33}%
 \contentsline {subsection}{\numberline {1.9.2}que repr\IeC {\'e}sentent les DNN}{18}{subsection.1.9.2}%
 \contentsline {subsection}{\numberline {1.9.3}Les ECAPA-TDNN }{18}{subsection.1.9.3}%
-\contentsline {paragraph}{}{18}{section*.35}%
+\contentsline {paragraph}{}{18}{section*.34}%
 \contentsline {subsection}{\numberline {1.9.4}Les ECAPA-TDNN }{19}{subsection.1.9.4}%
-\contentsline {paragraph}{}{19}{section*.36}%
+\contentsline {paragraph}{}{19}{section*.35}%
 \contentsline {section}{\numberline {1.10}Les bonnes pratiques en mati\IeC {\`e}re de reconnaissance vocale}{19}{section.1.10}%
-\contentsline {paragraph}{}{19}{section*.37}%
+\contentsline {paragraph}{}{19}{section*.36}%
 \contentsline {section}{\numberline {1.11}\IeC {\`A} quel point la reconnaissance vocale est-elle s\IeC {\'e}curis\IeC {\'e}e ?}{19}{section.1.11}%
-\contentsline {paragraph}{}{19}{section*.38}%
+\contentsline {paragraph}{}{19}{section*.37}%
+\contentsline {paragraph}{}{20}{section*.37}%
 \contentsline {paragraph}{}{20}{section*.38}%
-\contentsline {paragraph}{}{20}{section*.39}%
-\contentsline {paragraph}{}{20}{section*.39}%
-\contentsline {paragraph}{}{20}{section*.39}%
-\contentsline {section}{Conclusion}{21}{section*.39}%
+\contentsline {paragraph}{}{20}{section*.38}%
+\contentsline {paragraph}{}{20}{section*.38}%
+\contentsline {section}{Conclusion}{21}{section*.38}%
+\contentsline {paragraph}{}{21}{section*.39}%
+\contentsline {paragraph}{}{21}{section*.39}%
 \contentsline {paragraph}{}{21}{section*.40}%
 \contentsline {paragraph}{}{21}{section*.40}%
-\contentsline {paragraph}{}{21}{section*.41}%
-\contentsline {paragraph}{}{21}{section*.41}%
-\contentsline {paragraph}{}{21}{section*.41}%
-\contentsline {paragraph}{}{21}{section*.41}%
-\contentsline {paragraph}{}{21}{section*.41}%
+\contentsline {paragraph}{}{21}{section*.40}%
+\contentsline {paragraph}{}{21}{section*.40}%
+\contentsline {paragraph}{}{21}{section*.40}%
 \contentsline {chapter}{\numberline {2}MODELISATION ET LE DEVELOPPEMENT DE NOTRE MODEL D\IeC {\textquoteright }IA}{22}{chapter.2}%
-\contentsline {section}{Introduction}{22}{section*.42}%
+\contentsline {section}{Introduction}{22}{section*.41}%
 \contentsline {section}{\numberline {2.1}Architecture du syst\IeC {\`e}me}{22}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Mat\IeC {\'e}riels}{23}{section.2.2}%
-\contentsline {paragraph}{}{23}{figure.caption.44}%
+\contentsline {paragraph}{}{23}{figure.caption.43}%
 \contentsline {section}{\numberline {2.3}Choix technologique}{24}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}D\IeC {\'e}finitions }{24}{subsection.2.3.1}%
-\contentsline {paragraph}{}{24}{section*.45}%
-\contentsline {paragraph}{}{24}{section*.45}%
-\contentsline {paragraph}{}{24}{section*.45}%
-\contentsline {paragraph}{}{25}{section*.45}%
-\contentsline {paragraph}{}{25}{section*.45}%
+\contentsline {paragraph}{}{24}{section*.44}%
+\contentsline {paragraph}{}{24}{section*.44}%
+\contentsline {paragraph}{}{24}{section*.44}%
+\contentsline {paragraph}{}{25}{section*.44}%
+\contentsline {paragraph}{}{25}{section*.44}%
 \contentsline {subsection}{\numberline {2.3.2}Structure }{25}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Fonctionnement }{25}{subsection.2.3.3}%
-\contentsline {paragraph}{}{25}{section*.47}%
+\contentsline {paragraph}{}{25}{section*.46}%
+\contentsline {paragraph}{}{26}{section*.46}%
+\contentsline {section}{Conclusion}{26}{section*.46}%
 \contentsline {paragraph}{}{26}{section*.47}%
-\contentsline {section}{Conclusion}{26}{section*.47}%
-\contentsline {paragraph}{}{26}{section*.48}%
-\contentsline {paragraph}{}{26}{section*.48}%
+\contentsline {paragraph}{}{26}{section*.47}%
 \contentsline {chapter}{\numberline {3}MATERIELS ET METHODES}{27}{chapter.3}%
-\contentsline {section}{Introduction}{27}{section*.49}%
+\contentsline {section}{Introduction}{27}{section*.48}%
 \contentsline {section}{\numberline {3.1}architecture du syst\IeC {\`e}me}{27}{section.3.1}%
+\contentsline {paragraph}{}{27}{section*.49}%
+\contentsline {paragraph}{}{27}{section*.49}%
 \contentsline {paragraph}{}{27}{section*.50}%
 \contentsline {paragraph}{}{27}{section*.50}%
-\contentsline {paragraph}{}{27}{section*.51}%
-\contentsline {paragraph}{}{27}{section*.51}%
-\contentsline {paragraph}{}{28}{section*.51}%
-\contentsline {paragraph}{}{28}{section*.51}%
+\contentsline {paragraph}{}{28}{section*.50}%
+\contentsline {paragraph}{}{28}{section*.50}%
 \contentsline {section}{\numberline {3.2}Le model}{28}{section.3.2}%
+\contentsline {paragraph}{}{28}{section*.51}%
+\contentsline {paragraph}{}{28}{section*.51}%
 \contentsline {paragraph}{}{28}{section*.52}%
 \contentsline {paragraph}{}{28}{section*.52}%
-\contentsline {paragraph}{}{28}{section*.53}%
-\contentsline {paragraph}{}{28}{section*.53}%
-\contentsline {paragraph}{}{28}{section*.53}%
-\contentsline {paragraph}{}{28}{figure.caption.54}%
+\contentsline {paragraph}{}{28}{section*.52}%
+\contentsline {paragraph}{}{28}{figure.caption.53}%
 \contentsline {section}{\numberline {3.3}Les donn\IeC {\'e}es d'entrainement}{28}{section.3.3}%
-\contentsline {paragraph}{}{29}{figure.caption.55}%
+\contentsline {paragraph}{}{29}{figure.caption.54}%
 \contentsline {section}{\numberline {3.4}Le code}{29}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Installations}{30}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Preparation des donn\IeC {\'e}es}{30}{section.3.6}%
@@ -171,27 +169,27 @@
 \contentsline {section}{\numberline {3.9}Le d\IeC {\'e}veloppement des Apis}{38}{section.3.9}%
 \contentsline {section}{Conclusion}{45}{lstnumber.-3.35}%
 \contentsline {chapter}{\numberline {4}R\IeC {\'e}sultats et discussions}{49}{chapter.4}%
-\contentsline {section}{Introduction}{49}{section*.83}%
+\contentsline {section}{Introduction}{49}{section*.82}%
 \contentsline {section}{\numberline {4.1}Pr\IeC {\'e}sentation du cadre d\IeC {\textquoteright }\IeC {\'e}tude}{49}{section.4.1}%
 \contentsline {section}{\numberline {4.2}R\IeC {\'e}sultats obtenus}{49}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}liste des locuteurs}{50}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}mise \IeC {\`a} jour du model}{50}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Identification de locuteur}{50}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}authentification de locuteur}{51}{subsection.4.2.4}%
-\contentsline {paragraph}{}{51}{figure.caption.88}%
+\contentsline {paragraph}{}{51}{figure.caption.87}%
 \contentsline {subsection}{\numberline {4.2.5}Analytic des connexions}{52}{subsection.4.2.5}%
 \contentsline {section}{\numberline {4.3}avantage de notre architecture}{52}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Les limites de notre architecture}{53}{section.4.4}%
 \contentsline {section}{Conclusion}{53}{section.4.4}%
-\contentsline {chapter}{Conclusion}{55}{chapter*.90}%
+\contentsline {chapter}{Conclusion}{55}{chapter*.89}%
+\contentsline {paragraph}{}{55}{section*.90}%
+\contentsline {paragraph}{}{55}{section*.90}%
 \contentsline {paragraph}{}{55}{section*.91}%
 \contentsline {paragraph}{}{55}{section*.91}%
-\contentsline {paragraph}{}{55}{section*.92}%
-\contentsline {paragraph}{}{55}{section*.92}%
-\contentsline {paragraph}{}{55}{section*.92}%
-\contentsline {paragraph}{}{55}{section*.92}%
-\contentsline {paragraph}{}{55}{section*.92}%
-\contentsline {chapter}{Bibliographie}{56}{section*.92}%
-\contentsline {chapter}{Bibliographie}{56}{chapter*.93}%
-\contentsline {chapter}{Table des mati\`eres}{57}{section*.94}%
+\contentsline {paragraph}{}{55}{section*.91}%
+\contentsline {paragraph}{}{55}{section*.91}%
+\contentsline {paragraph}{}{55}{section*.91}%
+\contentsline {chapter}{}{56}{section*.91}%
+\contentsline {chapter}{Bibliographie}{56}{chapter*.92}%
+\contentsline {chapter}{Table des mati\`eres}{57}{section*.93}%
 \contentsfinish 

@@ -2327,13 +2327,6 @@ INPUT ./main.lof
 INPUT main.lof
 INPUT main.lof
 OUTPUT main.lof
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT ./main.loa
-INPUT main.loa
-INPUT main.loa
-OUTPUT main.loa
 INPUT ./3-introduction.tex
 INPUT ./3-introduction.tex
 INPUT ./3-introduction.tex
@@ -2353,6 +2346,9 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8c.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8t.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/adobe/palatino/pplr8c.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd

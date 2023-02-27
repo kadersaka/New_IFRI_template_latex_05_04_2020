@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.11)  27 FEB 2023 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.11)  27 FEB 2023 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1188,7 +1188,7 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<images/logoUAC1.png, id=685, 160.6pt x 186.6975pt>
+<images/logoUAC1.png, id=681, 160.6pt x 186.6975pt>
 File: images/logoUAC1.png Graphic file (type png)
 <use images/logoUAC1.png>
 Package pdftex.def Info: images/logoUAC1.png  used on input line 96.
@@ -1197,7 +1197,7 @@ LaTeX Font Info:    Trying to load font information for T1+pcr on input line 96.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<images/logoIfri.png, id=689, 200.75pt x 126.874pt>
+<images/logoIfri.png, id=685, 200.75pt x 126.874pt>
 File: images/logoIfri.png Graphic file (type png)
 <use images/logoIfri.png>
 Package pdftex.def Info: images/logoIfri.png  used on input line 96.
@@ -1310,15 +1310,11 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 \tf@lof=\write10
 \openout10 = `main.lof'.
 
- [7] (./main.loa)
-\tf@loa=\write11
-\openout11 = `main.loa'.
 
- [8
-
-]
 No file main.acr.
-[9]
+[7]
+No file main.gls.
+[8]
 \openout2 = `3-introduction.aux'.
 
  (./3-introduction.tex
@@ -1356,18 +1352,13 @@ l.15 \paragraph{}
 LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 27.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-))
-Overfull \hbox (2.83418pt too wide) in paragraph at lines 35--153
-[] [][] \T1/ppl/m/n/10.95 Le pre-mier cha-pitre pré-sente l'état de l'art de l'iden-ti-fi-ca-tion par bio-me-trie vo-cale. Dans le deuxième
- []
-
-[2]
+)) [2]
 Chapitre 1.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 160.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 171.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 160.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 171.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./1-partie/1-fichier.tex
@@ -1380,7 +1371,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 
 
 ]
-<images//1-Picture1.png, id=859, 470.7186pt x 278.9622pt>
+<images//1-Picture1.png, id=850, 470.7186pt x 278.9622pt>
 File: images//1-Picture1.png Graphic file (type png)
 <use images//1-Picture1.png>
 Package pdftex.def Info: images//1-Picture1.png  used on input line 31.
@@ -1412,7 +1403,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 51.
 
 [5]
-<images//2-fonctionnement.png, id=874, 470.7186pt x 211.5102pt>
+<images//2-fonctionnement.png, id=867, 470.7186pt x 211.5102pt>
 File: images//2-fonctionnement.png Graphic file (type png)
 <use images//2-fonctionnement.png>
 Package pdftex.def Info: images//2-fonctionnement.png  used on input line 69.
@@ -1441,7 +1432,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 141.
 
 [9]
-<images//1-ia-ml-dl.png, id=904, 278.9622pt x 197.538pt>
+<images//1-ia-ml-dl.png, id=896, 278.9622pt x 197.538pt>
 File: images//1-ia-ml-dl.png Graphic file (type png)
 <use images//1-ia-ml-dl.png>
 Package pdftex.def Info: images//1-ia-ml-dl.png  used on input line 148.
@@ -1456,7 +1447,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 154.
 
 [10 <./images//1-ia-ml-dl.png>]
-<images//1-ml.png, id=910, 239.4546pt x 142.131pt>
+<images//1-ml.png, id=903, 239.4546pt x 142.131pt>
 File: images//1-ml.png Graphic file (type png)
 <use images//1-ml.png>
 Package pdftex.def Info: images//1-ml.png  used on input line 163.
@@ -1467,12 +1458,12 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 178.
 
 [12]
-<images//1-dl-1.png, id=922, 305.943pt x 142.131pt>
+<images//1-dl-1.png, id=915, 305.943pt x 142.131pt>
 File: images//1-dl-1.png Graphic file (type png)
 <use images//1-dl-1.png>
 Package pdftex.def Info: images//1-dl-1.png  used on input line 186.
 (pdftex.def)             Requested size: 483.69687pt x 224.71196pt.
-<images//1-dl-2.png, id=924, 470.7186pt x 252.945pt>
+<images//1-dl-2.png, id=917, 470.7186pt x 252.945pt>
 File: images//1-dl-2.png Graphic file (type png)
 <use images//1-dl-2.png>
 Package pdftex.def Info: images//1-dl-2.png  used on input line 195.
@@ -1486,7 +1477,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 202.
 
-<images//1-dl-3.png, id=932, 289.08pt x 144.54pt>
+<images//1-dl-3.png, id=925, 289.08pt x 144.54pt>
 File: images//1-dl-3.png Graphic file (type png)
 <use images//1-dl-3.png>
 Package pdftex.def Info: images//1-dl-3.png  used on input line 206.
@@ -1494,7 +1485,7 @@ Package pdftex.def Info: images//1-dl-3.png  used on input line 206.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//1-dl-4.png, id=935, 248.6088pt x 223.5552pt>
+<images//1-dl-4.png, id=928, 248.6088pt x 223.5552pt>
 File: images//1-dl-4.png Graphic file (type png)
 <use images//1-dl-4.png>
 Package pdftex.def Info: images//1-dl-4.png  used on input line 219.
@@ -1502,7 +1493,7 @@ Package pdftex.def Info: images//1-dl-4.png  used on input line 219.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//1-dl-5.png, id=937, 266.9172pt x 214.401pt>
+<images//1-dl-5.png, id=930, 266.9172pt x 214.401pt>
 File: images//1-dl-5.png Graphic file (type png)
 <use images//1-dl-5.png>
 Package pdftex.def Info: images//1-dl-5.png  used on input line 227.
@@ -1607,12 +1598,12 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 [22
 
 ]
-<images//2-clab-1.png, id=994, 409.0482pt x 368.0952pt>
+<images//2-clab-1.png, id=987, 409.0482pt x 368.0952pt>
 File: images//2-clab-1.png Graphic file (type png)
 <use images//2-clab-1.png>
 Package pdftex.def Info: images//2-clab-1.png  used on input line 25.
 (pdftex.def)             Requested size: 483.69687pt x 435.28653pt.
-<images//2-clab-2.png, id=995, 470.7186pt x 217.7736pt>
+<images//2-clab-2.png, id=988, 470.7186pt x 217.7736pt>
 File: images//2-clab-2.png Graphic file (type png)
 <use images//2-clab-2.png>
 Package pdftex.def Info: images//2-clab-2.png  used on input line 36.
@@ -1631,7 +1622,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 50.
 
 [23 <./images//2-clab-1.png>] [24 <./images//2-clab-2.png>]
-<images//2-clab-3.png, id=1007, 470.7186pt x 327.1422pt>
+<images//2-clab-3.png, id=1000, 470.7186pt x 327.1422pt>
 File: images//2-clab-3.png Graphic file (type png)
 <use images//2-clab-3.png>
 Package pdftex.def Info: images//2-clab-3.png  used on input line 70.
@@ -1705,7 +1696,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 17.
 
-<images//3chap1.png, id=1026, 376.2858pt x 650.43pt>
+<images//3chap1.png, id=1018, 376.2858pt x 650.43pt>
 File: images//3chap1.png Graphic file (type png)
 <use images//3chap1.png>
 Package pdftex.def Info: images//3chap1.png  used on input line 24.
@@ -1713,7 +1704,7 @@ Package pdftex.def Info: images//3chap1.png  used on input line 24.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap2.png, id=1027, 470.7186pt x 118.041pt>
+<images//3chap2.png, id=1019, 470.7186pt x 118.041pt>
 File: images//3chap2.png Graphic file (type png)
 <use images//3chap2.png>
 Package pdftex.def Info: images//3chap2.png  used on input line 36.
@@ -1726,7 +1717,7 @@ Package hyperref Warning: Difference (3) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 40.
 
 [28]
-<images//3chap3.png, id=1032, 470.7186pt x 233.673pt>
+<images//3chap3.png, id=1025, 470.7186pt x 233.673pt>
 File: images//3chap3.png Graphic file (type png)
 <use images//3chap3.png>
 Package pdftex.def Info: images//3chap3.png  used on input line 45.
@@ -1735,7 +1726,7 @@ Package pdftex.def Info: images//3chap3.png  used on input line 45.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap4.png, id=1033, 470.7186pt x 178.266pt>
+<images//3chap4.png, id=1026, 470.7186pt x 178.266pt>
 File: images//3chap4.png Graphic file (type png)
 <use images//3chap4.png>
 Package pdftex.def Info: images//3chap4.png  used on input line 53.
@@ -1744,12 +1735,12 @@ Package pdftex.def Info: images//3chap4.png  used on input line 53.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [29 <./images//3chap1.png>]
-<images//3chap5.png, id=1041, 470.7186pt x 68.8974pt>
+<images//3chap5.png, id=1034, 470.7186pt x 68.8974pt>
 File: images//3chap5.png Graphic file (type png)
 <use images//3chap5.png>
 Package pdftex.def Info: images//3chap5.png  used on input line 73.
 (pdftex.def)             Requested size: 483.69687pt x 70.80109pt.
-<images//3chap6.png, id=1043, 470.7186pt x 195.6108pt>
+<images//3chap6.png, id=1036, 470.7186pt x 195.6108pt>
 File: images//3chap6.png Graphic file (type png)
 <use images//3chap6.png>
 Package pdftex.def Info: images//3chap6.png  used on input line 80.
@@ -1762,7 +1753,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [30 <./images//3chap2.png> <./images//3chap3.png>]
-<images//3chap7.png, id=1051, 470.7186pt x 271.7352pt>
+<images//3chap7.png, id=1044, 470.7186pt x 271.7352pt>
 File: images//3chap7.png Graphic file (type png)
 <use images//3chap7.png>
 Package pdftex.def Info: images//3chap7.png  used on input line 90.
@@ -1771,7 +1762,7 @@ Package pdftex.def Info: images//3chap7.png  used on input line 90.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap8.png, id=1053, 470.7186pt x 368.0952pt>
+<images//3chap8.png, id=1046, 470.7186pt x 368.0952pt>
 File: images//3chap8.png Graphic file (type png)
 <use images//3chap8.png>
 Package pdftex.def Info: images//3chap8.png  used on input line 97.
@@ -1779,7 +1770,7 @@ Package pdftex.def Info: images//3chap8.png  used on input line 97.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap9.png, id=1054, 470.7186pt x 468.3096pt>
+<images//3chap9.png, id=1047, 470.7186pt x 468.3096pt>
 File: images//3chap9.png Graphic file (type png)
 <use images//3chap9.png>
 Package pdftex.def Info: images//3chap9.png  used on input line 116.
@@ -1787,7 +1778,7 @@ Package pdftex.def Info: images//3chap9.png  used on input line 116.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap10.png, id=1057, 470.7186pt x 178.266pt>
+<images//3chap10.png, id=1050, 470.7186pt x 178.266pt>
 File: images//3chap10.png Graphic file (type png)
 <use images//3chap10.png>
 Package pdftex.def Info: images//3chap10.png  used on input line 125.
@@ -1796,7 +1787,7 @@ Package pdftex.def Info: images//3chap10.png  used on input line 125.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap11.png, id=1066, 470.7186pt x 62.1522pt>
+<images//3chap11.png, id=1058, 470.7186pt x 62.1522pt>
 File: images//3chap11.png Graphic file (type png)
 <use images//3chap11.png>
 Package pdftex.def Info: images//3chap11.png  used on input line 132.
@@ -1804,7 +1795,7 @@ Package pdftex.def Info: images//3chap11.png  used on input line 132.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap12.png, id=1068, 470.7186pt x 79.9788pt>
+<images//3chap12.png, id=1060, 470.7186pt x 79.9788pt>
 File: images//3chap12.png Graphic file (type png)
 <use images//3chap12.png>
 Package pdftex.def Info: images//3chap12.png  used on input line 140.
@@ -1812,7 +1803,7 @@ Package pdftex.def Info: images//3chap12.png  used on input line 140.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap13.png, id=1070, 470.7186pt x 165.2574pt>
+<images//3chap13.png, id=1062, 470.7186pt x 165.2574pt>
 File: images//3chap13.png Graphic file (type png)
 <use images//3chap13.png>
 Package pdftex.def Info: images//3chap13.png  used on input line 148.
@@ -1825,7 +1816,7 @@ Overfull \hbox (4.65627pt too wide) in paragraph at lines 145--152
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap14.png, id=1072, 470.7186pt x 307.8702pt>
+<images//3chap14.png, id=1064, 470.7186pt x 307.8702pt>
 File: images//3chap14.png Graphic file (type png)
 <use images//3chap14.png>
 Package pdftex.def Info: images//3chap14.png  used on input line 160.
@@ -1833,7 +1824,7 @@ Package pdftex.def Info: images//3chap14.png  used on input line 160.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap15.png, id=1073, 470.7186pt x 191.2746pt>
+<images//3chap15.png, id=1065, 470.7186pt x 191.2746pt>
 File: images//3chap15.png Graphic file (type png)
 <use images//3chap15.png>
 Package pdftex.def Info: images//3chap15.png  used on input line 169.
@@ -1842,7 +1833,7 @@ Package pdftex.def Info: images//3chap15.png  used on input line 169.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [32 <./images//3chap6.png>]
-<images//3chap16.png, id=1080, 470.7186pt x 327.1422pt>
+<images//3chap16.png, id=1073, 470.7186pt x 327.1422pt>
 File: images//3chap16.png Graphic file (type png)
 <use images//3chap16.png>
 Package pdftex.def Info: images//3chap16.png  used on input line 182.
@@ -1851,7 +1842,7 @@ Package pdftex.def Info: images//3chap16.png  used on input line 182.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap17.png, id=1081, 470.7186pt x 29.8716pt>
+<images//3chap17.png, id=1074, 470.7186pt x 29.8716pt>
 File: images//3chap17.png Graphic file (type png)
 <use images//3chap17.png>
 Package pdftex.def Info: images//3chap17.png  used on input line 195.
@@ -1859,7 +1850,7 @@ Package pdftex.def Info: images//3chap17.png  used on input line 195.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap18.png, id=1082, 470.7186pt x 419.166pt>
+<images//3chap18.png, id=1075, 470.7186pt x 419.166pt>
 File: images//3chap18.png Graphic file (type png)
 <use images//3chap18.png>
 Package pdftex.def Info: images//3chap18.png  used on input line 202.
@@ -1867,7 +1858,7 @@ Package pdftex.def Info: images//3chap18.png  used on input line 202.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap19.png, id=1083, 470.7186pt x 68.8974pt>
+<images//3chap19.png, id=1076, 470.7186pt x 68.8974pt>
 File: images//3chap19.png Graphic file (type png)
 <use images//3chap19.png>
 Package pdftex.def Info: images//3chap19.png  used on input line 213.
@@ -1876,7 +1867,7 @@ Package pdftex.def Info: images//3chap19.png  used on input line 213.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap20.png, id=1090, 470.7186pt x 229.8186pt>
+<images//3chap20.png, id=1082, 470.7186pt x 229.8186pt>
 File: images//3chap20.png Graphic file (type png)
 <use images//3chap20.png>
 Package pdftex.def Info: images//3chap20.png  used on input line 231.
@@ -1885,7 +1876,7 @@ Package pdftex.def Info: images//3chap20.png  used on input line 231.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [34 <./images//3chap8.png>]
-<images//3chap21.png, id=1096, 470.7186pt x 134.4222pt>
+<images//3chap21.png, id=1089, 470.7186pt x 134.4222pt>
 File: images//3chap21.png Graphic file (type png)
 <use images//3chap21.png>
 Package pdftex.def Info: images//3chap21.png  used on input line 244.
@@ -1894,7 +1885,7 @@ Package pdftex.def Info: images//3chap21.png  used on input line 244.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap22.png, id=1097, 470.7186pt x 195.6108pt>
+<images//3chap22.png, id=1090, 470.7186pt x 195.6108pt>
 File: images//3chap22.png Graphic file (type png)
 <use images//3chap22.png>
 Package pdftex.def Info: images//3chap22.png  used on input line 253.
@@ -1903,7 +1894,7 @@ Package pdftex.def Info: images//3chap22.png  used on input line 253.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap23.png, id=1103, 470.7186pt x 198.5016pt>
+<images//3chap23.png, id=1096, 470.7186pt x 198.5016pt>
 File: images//3chap23.png Graphic file (type png)
 <use images//3chap23.png>
 Package pdftex.def Info: images//3chap23.png  used on input line 266.
@@ -1911,7 +1902,7 @@ Package pdftex.def Info: images//3chap23.png  used on input line 266.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap24.png, id=1104, 470.7186pt x 346.896pt>
+<images//3chap24.png, id=1097, 470.7186pt x 346.896pt>
 File: images//3chap24.png Graphic file (type png)
 <use images//3chap24.png>
 Package pdftex.def Info: images//3chap24.png  used on input line 281.
@@ -1920,7 +1911,7 @@ Package pdftex.def Info: images//3chap24.png  used on input line 281.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap25.png, id=1111, 470.7186pt x 292.9344pt>
+<images//3chap25.png, id=1104, 470.7186pt x 292.9344pt>
 File: images//3chap25.png Graphic file (type png)
 <use images//3chap25.png>
 Package pdftex.def Info: images//3chap25.png  used on input line 288.
@@ -1928,7 +1919,7 @@ Package pdftex.def Info: images//3chap25.png  used on input line 288.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap26.png, id=1112, 470.7186pt x 286.671pt>
+<images//3chap26.png, id=1105, 470.7186pt x 286.671pt>
 File: images//3chap26.png Graphic file (type png)
 <use images//3chap26.png>
 Package pdftex.def Info: images//3chap26.png  used on input line 306.
@@ -1937,7 +1928,7 @@ Package pdftex.def Info: images//3chap26.png  used on input line 306.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [37 <./images//3chap12.png> <./images//3chap13.png>]
-<images//3chap27.png, id=1119, 470.7186pt x 301.125pt>
+<images//3chap27.png, id=1112, 470.7186pt x 301.125pt>
 File: images//3chap27.png Graphic file (type png)
 <use images//3chap27.png>
 Package pdftex.def Info: images//3chap27.png  used on input line 321.
@@ -1946,7 +1937,7 @@ Package pdftex.def Info: images//3chap27.png  used on input line 321.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap28.png, id=1120, 470.7186pt x 144.54pt>
+<images//3chap28.png, id=1113, 470.7186pt x 144.54pt>
 File: images//3chap28.png Graphic file (type png)
 <use images//3chap28.png>
 Package pdftex.def Info: images//3chap28.png  used on input line 330.
@@ -1954,7 +1945,7 @@ Package pdftex.def Info: images//3chap28.png  used on input line 330.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//3chap29.png, id=1122, 470.7186pt x 202.356pt>
+<images//3chap29.png, id=1115, 470.7186pt x 202.356pt>
 File: images//3chap29.png Graphic file (type png)
 <use images//3chap29.png>
 Package pdftex.def Info: images//3chap29.png  used on input line 340.
@@ -1985,12 +1976,12 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 [49
 
 ]
-<images//4chap1.png, id=1341, 470.7186pt x 253.9086pt>
+<images//4chap1.png, id=1334, 470.7186pt x 253.9086pt>
 File: images//4chap1.png Graphic file (type png)
 <use images//4chap1.png>
 Package pdftex.def Info: images//4chap1.png  used on input line 23.
 (pdftex.def)             Requested size: 483.69687pt x 260.92438pt.
-<images//4chap2.png, id=1342, 470.7186pt x 192.72pt>
+<images//4chap2.png, id=1335, 470.7186pt x 192.72pt>
 File: images//4chap2.png Graphic file (type png)
 <use images//4chap2.png>
 Package pdftex.def Info: images//4chap2.png  used on input line 34.
@@ -1999,7 +1990,7 @@ Package pdftex.def Info: images//4chap2.png  used on input line 34.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//4chap3.png, id=1343, 470.7186pt x 237.5274pt>
+<images//4chap3.png, id=1336, 470.7186pt x 237.5274pt>
 File: images//4chap3.png Graphic file (type png)
 <use images//4chap3.png>
 Package pdftex.def Info: images//4chap3.png  used on input line 42.
@@ -2007,7 +1998,7 @@ Package pdftex.def Info: images//4chap3.png  used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images//4chap4.png, id=1344, 470.7186pt x 357.9774pt>
+<images//4chap4.png, id=1337, 470.7186pt x 357.9774pt>
 File: images//4chap4.png Graphic file (type png)
 <use images//4chap4.png>
 Package pdftex.def Info: images//4chap4.png  used on input line 52.
@@ -2016,7 +2007,7 @@ Package pdftex.def Info: images//4chap4.png  used on input line 52.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [50 <./images//4chap1.png>]
-<images//4chap5.png, id=1350, 470.7186pt x 317.0244pt>
+<images//4chap5.png, id=1343, 470.7186pt x 317.0244pt>
 File: images//4chap5.png Graphic file (type png)
 <use images//4chap5.png>
 Package pdftex.def Info: images//4chap5.png  used on input line 70.
@@ -2030,7 +2021,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 75.
 
 [51 <./images//4chap2.png> <./images//4chap3.png>]
-<images//4chap6.png, id=1358, 470.7186pt x 234.6366pt>
+<images//4chap6.png, id=1350, 470.7186pt x 234.6366pt>
 File: images//4chap6.png Graphic file (type png)
 <use images//4chap6.png>
 Package pdftex.def Info: images//4chap6.png  used on input line 88.
@@ -2081,8 +2072,8 @@ Overfull \hbox (31.30815pt too wide) in paragraph at lines 71--74
 
 
 ] (./main.toc [57] [58] [59] [60])
-\tf@toc=\write12
-\openout12 = `main.toc'.
+\tf@toc=\write11
+\openout11 = `main.toc'.
 
  
 AED: lastpage setting LastPage
@@ -2103,31 +2094,34 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the main.log file.
 
-\tf@ptc=\write13
-\openout13 = `main.ptc'.
+\tf@ptc=\write12
+\openout12 = `main.ptc'.
 
 [62
 
 ] (./main.aux (./0-dedicace.aux) (./1-remerciements.aux) (./2-resume.aux) (./3-introduction.aux) (./4-conclusion.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 661F8C2319E077154717C60C5AFBD046;18339.
+(rerunfilecheck)             Checksum: CC1836B7974F32AFB20B07C30351E945;18108.
  ) 
 Here is how much of TeX's memory you used:
- 40437 strings out of 478268
- 695177 string characters out of 5846347
- 1671512 words of memory out of 5000000
- 57303 multiletter control sequences out of 15000+600000
+ 40520 strings out of 478268
+ 696445 string characters out of 5846347
+ 1672949 words of memory out of 5000000
+ 57389 multiletter control sequences out of 15000+600000
  515513 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,14n,131p,1205b,2172s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+pdfTeX warning (dest): name{glo:pc} has been referenced but does not exist, replaced by a fixed one
+
+
 pdfTeX warning (dest): name{lstnumber.-3.35} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (72 pages, 4278963 bytes).
+Output written on main.pdf (71 pages, 4278093 bytes).
 PDF statistics:
- 1719 PDF objects out of 1728 (max. 8388607)
- 1517 compressed objects within 16 object streams
- 387 named destinations out of 1000 (max. 500000)
- 1766 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1711 PDF objects out of 1728 (max. 8388607)
+ 1510 compressed objects within 16 object streams
+ 386 named destinations out of 1000 (max. 500000)
+ 1758 words of extra memory for PDF output out of 10000 (max. 10000000)
 

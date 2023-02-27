@@ -62,7 +62,7 @@
 
 \dateSoutenance{- Fevrier 2023}
 %\promo{2\up{ème}}
-\anneeScolaire{2019-2021}
+\anneeScolaire{2020-2021}
 
 
 %%maitre de mémoire
@@ -72,9 +72,9 @@
 %% Membres du Jury
 \jurys{%
 \begin{tabular}{llll}
-	Nom et prénoms du président & Grade & Entité & Président \\
-	Nom et prénoms de l'examinateur & Grade & Entité & Examinateur \\
-	Nom et prénoms du rapporteur & Grade & Entité & Rapporteur \\
+	% Nom et prénoms du président & Grade & Entité & Président \\
+	% Nom et prénoms de l'examinateur & Grade & Entité & Examinateur \\
+	% Nom et prénoms du rapporteur & Grade & Entité & Rapporteur \\
 \end{tabular}	
 }
 
@@ -126,26 +126,37 @@
 
 %liste des figures
 \listoffigures 
-\newpage
+% \newpage
 
 %liste des tableaux
 % \listoftables
 % \newpage
 
 %liste des algo
-\selectlanguage{french}
-\listofalgorithmes
-\newpage
+% \selectlanguage{french}
+% \listofalgorithmes
+% \newpage
+
+% % Les sigles et acronymes
+% \setglossarystyle{altlist}
+% \printglossary[title=Liste des acronymes, toctitle=Liste des acronymes, type=\acronymtype]
+% \newpage
+
+% % Le glossaire proprement dit
+% \setglossarystyle{super}
+% \printglossary[type=main]
 
 % Les sigles et acronymes
 \setglossarystyle{altlist}
-\printglossary[title=Liste des acronymes, toctitle=Liste des acronymes, type=\acronymtype]
+\printglossary[title=Sigles et abréviations, toctitle=Sigles et abréviations, type=\acronymtype]
+\thispagestyle{plain}
 \newpage
 
 % Le glossaire proprement dit
-%\setglossarystyle{super}
-%\printglossary[type=main]
-
+\setglossarystyle{altlist}%super
+\printglossary[type=main]
+\thispagestyle{plain}
+\newpage
 
 \pagenumbering{arabic}
 \setcounter{page}{1}
@@ -176,15 +187,18 @@
 \lhead[]{} \rhead[]{} \chead[]{}
 
 %%biblio
-\addcontentsline{toc}{chapter}{Bibliographie}
+\addcontentsline{toc}{chapter}{}
 \bibliographystyle{abbrv}
 \bibliography{biblio}
+% \include{biblio}
 
+\newpage
 
 %\include{annexe}
 
 \newpage
 \tableofcontents
 
-\end{document}          
+\end{document}
+
          
