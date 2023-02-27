@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+
+\bibitem{aware}
+Aware.
+\newblock Biométrie vocale embarquée, authentification et identification.
+
+\bibitem{timedoctor}
+T.~Doctor.
+\newblock What is voice authentication? (pros, cons, faqs);.
+
+\bibitem{dlp}
+{FRANÇOIS CHOLLET}.
+\newblock {\em Deep Learning with Python}.
+\newblock -, 2020.
+
+\bibitem{frontiers}
+Frontiers.
+\newblock X-vectors: New quantitative biomarkers for early parkinson's disease
+  detection from speech -
+  https://www.frontiersin.org/articles/10.3389/fninf.2021.578369/full.
+
+\bibitem{idemia}
+Idemia.
+\newblock Qu’est-ce que la biométrie ?
+
+\bibitem{imageware}
+imageware.
+\newblock Biometric voice recognition – everything you should know.
+
+\bibitem{xvectors}
+D.~S.-D. G.-R. G. S. D. P.~S. Khudanpur.
+\newblock X-vectors: Robust dnn embeddings for speaker recognition.
+\newblock 2022.
+
+\bibitem{mathworks}
+Mathworks.
+\newblock Speaker recognition using x-vectors -
+  https://www.mathworks.com/help/audio/ug/speaker-recognition-using-x-vectors.html.
+
+\bibitem{nice}
+Nice.
+\newblock Biométrie vocale embarquée, authentification et identification.
+
+\bibitem{embeddings}
+S.~S. M. S. F. H.~S. Ouni.
+\newblock Embeddings.
+\newblock 2022.
+
+\bibitem{themarvinproject}
+T.~M. Project.
+\newblock Structures d'apprentissage \& réseaux neuronaux reconnaissance de
+  l'empreinte vocale - http://themarvinproject.free.fr/final/node3.html.
+
+\bibitem{rcdevs}
+RCDev.
+\newblock Méthode d'authentification biométrique vocale améliorée.
+
+\bibitem{softjourn}
+Softjourn.
+\newblock Is voice authentication secure enough to be your new password?
+
+\bibitem{thalesgroup}
+thalesgroup.
+\newblock La biométrie au service de l’identification et l'authentification.
+
+\bibitem{vivoka}
+Vivoka.
+\newblock Biométrie vocale embarquée, authentification et identification.
+
+\bibitem{tdnn}
+Wikipedia.
+\newblock Time delay neural network -
+  https://en.wikipedia.org/wiki/time\_delay\_neural\_network.
+
+\end{thebibliography}

@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: 0-dedicace.aux
+A level-1 auxiliary file: 1-remerciements.aux
+A level-1 auxiliary file: 2-resume.aux
+A level-1 auxiliary file: 3-introduction.aux
+A level-1 auxiliary file: 4-conclusion.aux
+The style file: abbrv.bst
+Database file #1: biblio.bib
+Warning--entry type for "timedoctor" isn't style-file defined
+--line 62 of file biblio.bib
+Warning--entry type for "rcdevs" isn't style-file defined
+--line 71 of file biblio.bib
+Warning--entry type for "vivoka" isn't style-file defined
+--line 80 of file biblio.bib
+Warning--entry type for "aware" isn't style-file defined
+--line 89 of file biblio.bib
+Warning--entry type for "nice" isn't style-file defined
+--line 98 of file biblio.bib
+Warning--entry type for "idemia" isn't style-file defined
+--line 106 of file biblio.bib
+Warning--entry type for "softjourn" isn't style-file defined
+--line 115 of file biblio.bib
+Warning--entry type for "imageware" isn't style-file defined
+--line 124 of file biblio.bib
+Warning--entry type for "thalesgroup" isn't style-file defined
+--line 132 of file biblio.bib
+Warning--entry type for "mathworks" isn't style-file defined
+--line 141 of file biblio.bib
+Warning--entry type for "frontiers" isn't style-file defined
+--line 149 of file biblio.bib
+Warning--entry type for "tdnn" isn't style-file defined
+--line 158 of file biblio.bib
+Warning--entry type for "themarvinproject" isn't style-file defined
+--line 166 of file biblio.bib
+Warning--empty publisher in dlp
+Warning--empty journal in xvectors
+Warning--empty journal in embeddings
+You've used 16 entries,
+            2118 wiz_defined-function locations,
+            551 strings with 5327 characters,
+and the built_in function-call counts, 3157 in all, are:
+= -- 265
+> -- 112
+< -- 0
++ -- 48
+- -- 32
+* -- 94
+:= -- 528
+add.period$ -- 35
+call.type$ -- 16
+change.case$ -- 63
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 123
+empty$ -- 343
+format.name$ -- 32
+if$ -- 673
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 4
+newline$ -- 70
+num.names$ -- 32
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 0
+skip$ -- 149
+stack$ -- 0
+substring$ -- 80
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 62
+warning$ -- 3
+while$ -- 32
+width$ -- 18
+write$ -- 121
+(There were 16 warnings)

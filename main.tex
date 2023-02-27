@@ -1,0 +1,190 @@
+%--------------A VOTRE ATTENTION-------------%
+% Les étudiants en master qui disposent de plus de 3 chapitres dans leurs travaux peuvent en complèter
+% Les Membres doivent figurer dans la dernière version finale du mémoire après soutenance pour dépôt de mémoire
+
+\documentclass{ifri}
+\usepackage{titletoc}
+
+%\usepackage[utf8]{inputenc}   %gestion des accents
+\usepackage[T1]{fontenc} %gestion des accents
+\usepackage{eurosym}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{graphicx} %LaTeX package to import graphics
+\graphicspath{{images/}} %configuring the graphicx package
+%\usepackage[francais]{babel} %pour accent apostrophe
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\usepackage{caption}
+\newcommand{\source}[1]{\caption*{Source: {#1}} }
+
+
+\newcommand*{\captionsource}[2]{%
+  \caption[{#1}]{%
+    #1%
+    \\\hspace{\linewidth}%
+    \textbf{Source:} #2%
+  }%
+}
+
+\lstset{style=mystyle}
+%\usepackage[T2A]{fontenc}
+%\usepackage[utf8]{inputenc}
+
+\setlength{\glsdescwidth}{0.65\textwidth}
+% \usepackage{lscape}
+
+\typeMemoire{Diplôme de Master en Informatique}
+\optionFormation{Systèmes d'Information et Réseaux Informatiques}
+\etudiant{Sero Abdel-Kader \textbf{SAKA}}
+\titreDuMemoire{Mise en place d'un Cloud Rest API pour l'identification et l'authentification de locuteur par empreinte vocale}
+
+\dateSoutenance{- Fevrier 2023}
+%\promo{2\up{ème}}
+\anneeScolaire{2019-2021}
+
+
+%%maitre de mémoire
+\encadrants{Dr John \textbf{AOGA} }
+
+
+%% Membres du Jury
+\jurys{%
+\begin{tabular}{llll}
+	Nom et prénoms du président & Grade & Entité & Président \\
+	Nom et prénoms de l'examinateur & Grade & Entité & Examinateur \\
+	Nom et prénoms du rapporteur & Grade & Entité & Rapporteur \\
+\end{tabular}	
+}
+
+
+\hypersetup{
+ pdftitle={--},
+ pdfauthor={--},
+ pdfsubject={--},
+ pdfkeywords={--} 
+ }
+
+\color{bookColor}
+
+%importation du glossaire
+\loadglsentries{glossaire_reduit}
+
+\begin{document}
+
+\pageDeGarde
+%\pageTitre
+
+\pagecolor{white}
+
+%% page vide
+%\thispagestyle{empty}\ \clearpage
+
+
+\selectlanguage{french}
+
+% sommaire
+\pagenumbering{roman}
+
+\setcounter{tocdepth}{0}
+\startlist{toc}
+\printlist{toc}{}{\chapter*{Sommaire}}
+\setcounter{tocdepth}{5}
+
+%% rdedicaces
+\include{0-dedicace}
+\newpage 
+
+%% remerciements
+\include{1-remerciements}
+\newpage 
+
+% Résume
+\include{2-resume}
+\newpage
+
+%liste des figures
+\listoffigures 
+\newpage
+
+%liste des tableaux
+% \listoftables
+% \newpage
+
+%liste des algo
+\selectlanguage{french}
+\listofalgorithmes
+\newpage
+
+% Les sigles et acronymes
+\setglossarystyle{altlist}
+\printglossary[title=Liste des acronymes, toctitle=Liste des acronymes, type=\acronymtype]
+\newpage
+
+% Le glossaire proprement dit
+%\setglossarystyle{super}
+%\printglossary[type=main]
+
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+%%introduction
+\include{3-introduction}
+%\lhead[]{} \rhead[]{} \chead[]{}
+\selectlanguage{french}
+\fancyhead[L]{\tiny \leftmark}
+\fancyhead[R]{\scriptsize \rightmark}
+\fancyfoot[C]{\thepage}
+
+\chapter{ETAT DE L’ART DE IDENTIFICATION PAR BIOMETRIE VOCALE}\label{chap:1}
+ \input{1-partie/1-fichier}
+ 
+ \chapter{MODELISATION ET LE DEVELOPPEMENT DE NOTRE MODEL D’IA}\label{chap:2}
+ \input{2-partie/1-fichier}
+ 
+\chapter{MATERIELS ET METHODES}\label{chap:3}
+ \input{3-partie/1-fichier}
+
+ \chapter{Résultats et discussions}\label{chap:4}
+ \input{4-partie/1-fichier}
+
+% \include{perspectives}
+%%conclusion
+\include{4-conclusion}
+% 
+\lhead[]{} \rhead[]{} \chead[]{}
+
+%%biblio
+\addcontentsline{toc}{chapter}{Bibliographie}
+\bibliographystyle{abbrv}
+\bibliography{biblio}
+
+
+%\include{annexe}
+
+\newpage
+\tableofcontents
+
+\end{document}          
+         
